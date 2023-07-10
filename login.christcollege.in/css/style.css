@@ -200,7 +200,7 @@ h6 {
 }
 
 .nav-menu ul {
-  position: absolute;
+  position: relative;
   display: flex;
   top: 100%;
   left: 0;
