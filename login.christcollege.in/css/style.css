@@ -204,6 +204,7 @@ h6 {
   display: flex;
   top: 100%;
   left: 0;
+  list-style: none;
   z-index: 99;
 }
 
